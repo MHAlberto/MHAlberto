@@ -1,119 +1,80 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=M.H.%20Alberto&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:a855f7,100:d946ef&height=230&section=header&text=M.H.%20Alberto&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>Matemático con interés en Inteligencia Artificial, Backend y desarrollo de software moderno</b>
+  <b>Matemático y Analista de Datos con fijación al Machine Learning</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Matemáticas-Formación%20académica-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IA-Interés%20principal-4b5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Desarrollo-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matemáticas-Formación%20académica-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Fijación-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Análisis%20de%20Datos-Especialidad-c026d3?style=for-the-badge" />
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy **M.H. Alberto**, matemático con un fuerte interés en la **Inteligencia Artificial**, el **desarrollo backend** y la construcción de software robusto y bien estructurado.
+Soy **M.H. Alberto**, matemático y analista de datos con una **fijación al Machine Learning**. 
 
-Mi formación en matemáticas me permite abordar los problemas desde un enfoque analítico y riguroso, prestando especial atención a:
-
-* La lógica y la estructura de los sistemas
-* La eficiencia de los algoritmos
-* La claridad y mantenibilidad del código
+Como matemático, el análisis de datos tiene un gran impacto en mi forma de entender y resolver problemas. Mi formación me permite abordar el análisis desde un enfoque riguroso y fundamentado.
 
 Este repositorio funciona como una **presentación profesional**, así como un espacio donde documento proyectos, experimentos y aprendizajes continuos.
 
 ---
 
-## Intereses técnicos
-
-### Inteligencia Artificial
-
-Interesado en los fundamentos matemáticos y computacionales de la IA:
-
-* Álgebra lineal y optimización
-* Probabilidad y estadística
-* Aprendizaje automático
-* Modelos explicables y eficientes
-
-### Backend y sistemas
-
-Enfoque en el desarrollo de sistemas confiables y escalables:
-
-* APIs bien diseñadas
-* Arquitecturas limpias
-* Manejo eficiente de recursos
-* Seguridad y rendimiento
-
----
-
-## Lenguajes y tecnologías
+## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Experiencia-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Aprendizaje-000000?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/JavaScript-Uso%20general-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Python
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-Lenguaje principal para:
-
-* Prototipado
-* Análisis de datos
-* Inteligencia Artificial
-* Automatización
-
-### Rust
-
-Lenguaje de interés por:
-
-* Seguridad de memoria
-* Alto rendimiento
-* Diseño de sistemas confiables
-
-Actualmente utilizado como parte de un aprendizaje progresivo y documentado.
-
-### JavaScript
-
-Uso enfocado en:
-
-* Backend
-* APIs
-* Integración con servicios web
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
 ## Filosofía de trabajo
 
-* Código claro antes que código complejo
-* Fundamentos sólidos antes que frameworks
-* Aprender haciendo
-* Documentar el proceso
+* Datos limpios antes que modelos complejos
+* Comprensión matemática antes que frameworks
+* Validación rigurosa de resultados
+* Documentación clara del proceso analítico
 
-Creo firmemente que el buen software nace de una **comprensión profunda del problema**, no solo de la tecnología utilizada.
+Creo firmemente que el buen análisis de datos nace de una **comprensión profunda tanto de las matemáticas como del problema**.
 
 ---
 
-## Repositorios destacados
+## Proyectos principales
 
-* **Rust para todos** – Aprendizaje estructurado del lenguaje Rust
-* Proyectos de backend y experimentos personales
-* Ejercicios matemáticos aplicados a la computación
+Mis proyectos principales se encuentran en los siguientes repositorios:
 
-*(La lista crecerá conforme se desarrollen nuevos proyectos)*
+* **[1000 Problemas SQL](https://github.com/MHAlberto/1000-problemas-sql)** – Colección de ejercicios y soluciones en SQL
+* **[1000 Problemas Rust](https://github.com/MHAlberto/1000-problemas-rust)** – Desafíos de programación en Rust
+* **[1000 Problemas Análisis de Data](https://github.com/MHAlberto/1000-problemas-analisis-de-data)** – Casos prácticos de análisis de datos
 
 ---
 
 ## Objetivos
 
-* Profundizar en Inteligencia Artificial desde una base matemática
-* Desarrollar software backend robusto
-* Combinar teoría y práctica de forma disciplinada
-* Mantener un crecimiento técnico constante
+* Dominar técnicas avanzadas de Machine Learning
+* Desarrollar soluciones analíticas robustas y escalables
+* Combinar rigor matemático con aplicación práctica
+* Mantener un aprendizaje continuo en el campo del análisis de datos
 
 ---
 
@@ -122,4 +83,3 @@ Creo firmemente que el buen software nace de una **comprensión profunda del pro
 Este perfil está orientado a compartir conocimiento y proyectos.
 
 La comunicación se realiza principalmente a través de GitHub.
-
