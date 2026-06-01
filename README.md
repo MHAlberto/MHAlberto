@@ -32,10 +32,8 @@ Aquí puedes encontrar una selección de mis proyectos base, donde aplico mis co
 
 | Proyecto | Descripción | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- | :--- |
-| **[Nombre del Proyecto 1]** | Breve descripción de qué hace el proyecto, qué problema resuelve o qué dataset analiza. | `Python`, `Pandas`, `Scikit-learn` | [Ver Repositorio](#) |
-| **[Nombre del Proyecto 2]** | Breve descripción de la API o la aplicación web desarrollada para consumir modelos de ML. | `FastAPI`, `Docker`, `PostgreSQL` | [Ver Repositorio](#) |
-| **[Nombre del Proyecto 3]** | Herramienta de visualización o dashboard de inteligencia de negocios. | `Power BI`, `SQL`, `Python` | [Ver Proyecto](#) |
-| **[Nombre del Proyecto 4]** | Implementación de algoritmos, análisis de conjeturas o desarrollo en sistemas eficientes. | `Rust`, `NumPy` | [Ver Repositorio](#) |
+| **sklearn-ml-practico** | Este proyecto es mi aprendizaje con el ML. | `Python`, `Pandas`, `Scikit-learn` | https://github.com/MHAlberto/sklearn-ml-practico |
+
 
 *(Nota: Reemplaza los enlaces `#` y los nombres de los proyectos con la información real de tus repositorios)*
 
