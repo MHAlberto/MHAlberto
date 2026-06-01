@@ -34,9 +34,6 @@ Aquí puedes encontrar una selección de mis proyectos base, donde aplico mis co
 | :--- | :--- | :--- | :--- |
 | **sklearn-ml-practico** | Este proyecto es mi aprendizaje con el ML. | `Python`, `Pandas`, `Scikit-learn` | https://github.com/MHAlberto/sklearn-ml-practico |
 
-
-*(Nota: Reemplaza los enlaces `#` y los nombres de los proyectos con la información real de tus repositorios)*
-
 ---
 
 ## Technical Stack
