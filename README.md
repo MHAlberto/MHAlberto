@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mhalberto-pixel.gif" width="230" alt="MHalberto pixel art avatar" />
+<img src="./mhalberto-pixel.gif" width="230" alt="MHalberto pixel art avatar" />
 
 
 <img
